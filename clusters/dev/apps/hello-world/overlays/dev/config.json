@@ -1,7 +1,7 @@
 {
   "appName": "hello-world",
   "userGivenName": "hello-world",
-  "destNamespace": "default",
+  "destNamespace": "dev",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "clusters/dev/apps/hello-world/overlays/dev",
   "srcRepoURL": "https://github.com/thomasstxyz/argo-multi-env.git",
